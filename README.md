@@ -2,12 +2,12 @@
 >A job recommender system was developed involving extensive data analysis and visualization. Clustering techniques were implemented to group job preferences and skills, enhancing recommendation accuracy. Four algorithms were applied to refine recommendations, leveraging data insights to match candidates with suitable roles effectively.
 
 ## Import Necessary Libraries & read the CSV file 
- - Pandas - working with dataset
- - NLTK - preprocessing the data
- - SK Learn - Implement ML algorithms 
- - Word Cloud - Data Analysis
- - Seaborn - Visualization
- - matplotlib - Visualization
+ - **Pandas** - working with dataset
+ - **NLTK** - preprocessing the data
+ - **SK Learn** - Implement ML algorithms 
+ - **Word Cloud** - Data Analysis
+ - **Seaborn** - Visualization
+ - **Matplotlib** - Visualization
 
 ## Cleaning & Preprocessing of data
 - Remove unwanted columns
