@@ -24,8 +24,8 @@
 - Clustering
   
 ![cluster](https://github.com/user-attachments/assets/e089722c-f951-4d33-8dca-1f4229e6e406)
-
 - Accuracy comparison between 4 algorithms
+  
 ![ml acc](https://github.com/user-attachments/assets/1ef8421e-1ea7-4eab-9e10-021ff080776b)
 
  
