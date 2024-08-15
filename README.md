@@ -14,6 +14,7 @@
 - Drop empty columns
 - Data mining extract feature from our text using TF-IDF
 
+
 # Data Visualization  
 - Top 5 Demand Jobs in IT
   
@@ -21,11 +22,28 @@
 - Most Used Skill in IT - Word Cloud
   
 ![most used](https://github.com/user-attachments/assets/d483f3bf-26eb-42a3-8ebd-6bb981d68315)
+
+# Clustering 
+- k-means Algorithm
+- Classify the clustering by giving names
 - Clustering
   
 ![cluster](https://github.com/user-attachments/assets/e089722c-f951-4d33-8dca-1f4229e6e406)
+
+# Implementing ML Algorithms & Evaluate 
+- Logistic Regression
+- KNN 
+- Decision Tree
+- Support Vector Machine
 - Accuracy comparison between 4 algorithms
   
 ![ml acc](https://github.com/user-attachments/assets/1ef8421e-1ea7-4eab-9e10-021ff080776b)
 
+# Evaluating the distance metrics  
+- Cosine Similarity
+- Euclidean Distance
+
+# Final Recommendation
+- Cosine Similarity
+- SVM 
  
